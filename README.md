@@ -128,8 +128,8 @@ dotnet run
 **Matheus Maximiano**
 
 📍 Araraquara - SP  
-📧 seu-email-aqui  
-🔗 seu-linkedin-aqui  
+📧 mthsmaximiano@gmail.com  
+🔗 https://www.linkedin.com/in/matheusmaximiano/
 
 ---
 

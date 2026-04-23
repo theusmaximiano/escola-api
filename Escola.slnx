@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Itens de Solução/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="Escola.API/Escola.API.csproj" />
+  <Project Path="Escola.Application/Escola.Application.csproj" Id="e509c104-bbbc-45a9-9805-ecf26bc252eb" />
+  <Project Path="Escola.Domain/Escola.Domain.csproj" />
+  <Project Path="Escola.Infra.Data/Escola.Infra.Data.csproj" Id="70096488-bdff-4cb5-b95f-f38143fe8ffa" />
+  <Project Path="Escola.Infra.Ioc/Escola.Infra.Ioc.csproj" Id="d16e8d14-42af-442c-be45-80ca038824ea" />
+</Solution>
